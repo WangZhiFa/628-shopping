@@ -1,4 +1,4 @@
-# vuepro-sph
+# 628-shopping
 
 ## Project setup
 
